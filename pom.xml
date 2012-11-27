@@ -12,7 +12,7 @@
    <dependencyManagement>
       <dependencies>
         <dependency>
-          <groupId>groupId</groupId>
+          <groupId>parent-groupId</groupId>
           <artifactId>my-lib</artifactId>
           <version>${project.version}</version>
         </dependency>
